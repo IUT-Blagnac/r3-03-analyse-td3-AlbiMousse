@@ -32,7 +32,7 @@ public class AppTest
      */
     public void testHelloEmptyParameter()
     {
-        assertEquals("Hello World!", App.hello());
+        assertEquals("Hello my good sir!", App.hello());
     }
 
     /**
